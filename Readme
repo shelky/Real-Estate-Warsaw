@@ -1,0 +1,19 @@
+Apartments
+-------------
+
+General idea:
+software to search, scrap and analyse apartment market using couple of most popular auction websites
+-------------
+
+The general structure of the software:
+
+1. Web scraping script:
+    - generator of websites URL's
+    - script to download desired website content
+    - a scraping scripts for different websites data mining
+
+2. Apartments database:
+    - special apartment class
+    - database with the apartments
+
+3. Data analysis module:
